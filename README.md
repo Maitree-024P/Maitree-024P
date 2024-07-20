@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Maitree-024P
-- 👀 I’m interested in full stack development.
-- 🌱 I’m currently learning DSA and web development
-- 📫 How to reach me ... You can contact me using my email id.
-- 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...i am a learner..and will soon update my profile as early as i finish with the ongoing course.
+- This a new adventure game.
+- please suggest required changes if needed.
 
 <!---
 Maitree-024P/Maitree-024P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
